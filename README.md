@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Julie, a student at the University of Toronto. I'm currently working on some basic data analysis projects. 
+
 <!--
 **julieenguyennn/julieenguyennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
